@@ -28,3 +28,8 @@ img {
   font-style: italic;
   color: maroon;
 }
+body {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 40px;
+  padding-bottom: 100px;

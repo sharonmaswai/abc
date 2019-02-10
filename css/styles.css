@@ -4,3 +4,16 @@ h1 {
   font-size: 30;
   text-align: center;
 }
+
+body {
+  background-color: #FFA480;
+  font-family: sans-serif serif;
+  font-style: normal;
+  text-align: left;
+
+}
+img {
+  float: right;
+
+
+}

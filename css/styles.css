@@ -29,10 +29,12 @@ img {
   color: maroon;
 }
 body {
-  padding-left: 50px;
-  padding-right: 50px;
-  padding-top: 40px;
-  padding-bottom: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 60px;
+  b
+  padding-bottom: 250px;
+  border: 25px;
 }
 .bottom {
   background-color: #FF6347;
@@ -40,4 +42,5 @@ body {
   width: 90%;
   font-family: serif;
   float: right;
+
 }

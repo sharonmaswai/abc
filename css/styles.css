@@ -39,8 +39,28 @@ body {
 .bottom {
   background-color: #FF6347;
   font-weight: 200;
-  width: 90%;
+  width: 70%;
   font-family: serif;
   float: right;
 
+}
+.hobby {
+  background-color: #FFA05A;
+  width: 70%;
+  font-weight: light;
+  float: left;
+}
+.work {
+  background-color: #FF6347;
+  font-style: normal;
+  font-family: cursive;
+  float: right;
+  width: 70%;
+
+
+}
+.school {
+  background-color: #F4A460;
+  width: 70%;
+  font-family: sans-serif;
 }

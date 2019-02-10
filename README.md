@@ -1,6 +1,6 @@
 ## Portfolio landing page.
-# This is the landing page to my portfolio website.}
-# By Sharon Chepchirchir Maswai
+This is the landing page to my portfolio website.
+By Sharon Chepchirchir Maswai
 # Description
 This a the landing page to my portfolio website which reveals my education background, my work experience and interest.
 # Setup/Installation Requirements

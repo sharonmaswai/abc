@@ -1,5 +1,15 @@
-#PORTFOLIO WEB PAGE
+## Portfolio landing page.
+# This is the landing page to my portfolio website.}
+# By Sharon Chepchirchir Maswai
+# Description
+This a the landing page to my portfolio website which reveals my education background, my work experience and interest.
+# Setup/Installation Requirements
+* Any browser can be used to view this landing page.
 
-This is a web page that contains my portfolio. As you go through it you will learn a few things about me. It is also me trying my hand at coding.
+There are no known bugs.
 
-Enjoy!!
+# Technologies Used
+The technologies used include HTML and CSS>
+# Contact details
+chepsharonmaswai@gmail.com
+
